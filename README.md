@@ -1,1 +1,1 @@
-# OGTJk0mcvb08nmxl-pak20jm3KIJM-lIUZXJ83109-
+loadstring(game:HttpGet("https://pastebin.com/2w5sETvn"))();
